@@ -6,6 +6,7 @@ public class nextGreater {
 
         int i;
         n = ar.length;
+        // checking the condition that the given number should have atleast 3 digits.
         if (n == 2) {
             System.out.println("Number should be atleast 3 digits");
         }
@@ -57,7 +58,6 @@ public class nextGreater {
         int n3 = digits1.length;
         int digits4[] = { 4, 5, 2, 6 };
         int n4 = digits1.length;
-        // checking the condition that the given number should have atleast 3 digits.
 
         nextGreater ng = new nextGreater();
 
