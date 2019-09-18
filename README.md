@@ -33,4 +33,3 @@
  
  ---
  
- ### Thank you for giving me this opportunity, it was a wonderful experience with this take home assignment and I got to learn new tricks after this coding assignment.
